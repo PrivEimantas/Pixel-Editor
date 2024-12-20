@@ -1,0 +1,7 @@
+Run the following commands in the terminal on a Windows machine:
+javac -cp ".;flatlaf-3.0.jar" *.java
+java -cp ".;flatlaf-3.0.jar" Driver
+
+Run the following commands in the terminal on a Linux machine:
+javac -cp ".:flatlaf-3.0.jar" *.java
+java -cp ".:flatlaf-3.0.jar" Driver
