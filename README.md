@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin http://scc-source.lancs.ac.uk/scc210-2022-23/scc210-2223-grp-27.git
+git remote add origin http://scc-source.examples.ac.uk/scc210-2022-23/scc210-2223-grp-27.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://scc-source.lancs.ac.uk/scc210-2022-23/scc210-2223-grp-27/-/settings/integrations)
+- [ ] [Set up project integrations](http://scc-source.examples.ac.uk/scc210-2022-23/scc210-2223-grp-27/-/settings/integrations)
 
 ## Collaborate with your team
 
